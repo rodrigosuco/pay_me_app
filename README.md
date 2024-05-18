@@ -35,3 +35,13 @@ Rode localmente usando emulador ou dispositivo fisico com:
 ```
 
 
+
+## Screenshots
+- Tela principal
+
+![App Screenshot](https://i.imgur.com/IO0OZ4o.png)
+
+- Modal
+
+![App Screenshot](https://i.imgur.com/UeqjLLn.png)
+
